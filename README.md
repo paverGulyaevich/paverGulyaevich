@@ -1,6 +1,6 @@
 <p>
-  <img align='center' src="https://github.com/paverGulyaevich/paverGulyaevich/blob/main/text.gif" />
-  <img align='center' src="https://media3.giphy.com/media/jcphjXkgPV8tOsAZPi/giphy.gif?cid=ecf05e47iod42gqy2ufcx8wcoablx04vf685xn0dvp5jm48p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='60' height='50'/>
+  <img align='center' src="https://github.com/paverGulyaevich/paverGulyaevich/blob/main/text.gif" width='600' height='20' />
+  <img align='center' src="https://media3.giphy.com/media/jcphjXkgPV8tOsAZPi/giphy.gif?cid=ecf05e47iod42gqy2ufcx8wcoablx04vf685xn0dvp5jm48p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='50' height='40'/>
 </p>
 <a href="https://t.me/paver_gulyaevich" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="Telegram" height="40" width="40" /></a>&nbsp;
 <a href="https://github.com/paverGulyaevich" target="blank"><img align="left" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" height="40" width="40" /></a>&nbsp;
