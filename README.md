@@ -2,10 +2,10 @@
   <img align='center' src="https://github.com/paverGulyaevich/paverGulyaevich/blob/main/text.gif" width='600' height='20' />
   <img align='center' src="https://media3.giphy.com/media/jcphjXkgPV8tOsAZPi/giphy.gif?cid=ecf05e47iod42gqy2ufcx8wcoablx04vf685xn0dvp5jm48p&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='50' height='40'/>
 </p>
+
 <a href="https://t.me/paver_gulyaevich" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="Telegram" height="40" width="40" /></a>&nbsp;
 <a href="https://www.kaggle.com/pavergulyaevich" target="blank"><img align="left" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;
 <a href="https://www.vk.com/pavergulyaevich"><img align="left" alt="VK" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" /></a>
-
 <img align='right' src="https://media3.giphy.com/media/ubTm0qEprEvOo/giphy.webp?cid=ecf05e47i2jq1xccvdpgvts4f64uhie8ea0yqh1a5unor8ik&ep=v1_gifs_search&rid=giphy.webp&ct=g" height="300"/>
 
 ### A few things about me:
@@ -15,6 +15,7 @@
 - :accessibility: I am really into AI, Learning languages, Sports and Sports Biochemistry.
 - :book: I regularly read technical articles on AI and cutting-edge technologies in that field.
 - :atom: My goal is to become an expert in ML/DL to contribute to our future.
+
 ### Languages:
 
 <p align="left">
