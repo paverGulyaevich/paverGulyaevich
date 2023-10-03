@@ -10,9 +10,9 @@
 
 ### A few things about me:
 - :mortar_board: Graduated from Bauman Moscow State Technichal University.
-- :briefcase: Currently I am looking for a new job in Machine Learning.
+- :briefcase: Currently I'm working as a CV engineer.
 - :globe_with_meridians: I have level C1-C2 in English.
-- :accessibility: I am really into AI, Learning languages, Sports and Sports Biochemistry.
+- :accessibility: I'm into AI, Learning languages, Sports and Sports Biochemistry.
 - :book: I regularly read technical articles on AI and cutting-edge technologies in that field.
 - :atom: My goal is to become an expert in ML/DL to contribute to our future.
 
