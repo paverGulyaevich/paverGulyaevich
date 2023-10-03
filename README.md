@@ -9,7 +9,7 @@
 <img align='right' src="https://media3.giphy.com/media/ubTm0qEprEvOo/giphy.webp?cid=ecf05e47i2jq1xccvdpgvts4f64uhie8ea0yqh1a5unor8ik&ep=v1_gifs_search&rid=giphy.webp&ct=g" height="300"/>
 
 ### A few things about me:
-- :mortar_board: I graduated from Bauman Moscow State Technichal University with a diploma in Non-Destructive Testing.
+- :mortar_board: Graduated from Bauman Moscow State Technichal University.
 - :briefcase: Currently I am looking for a new job in Machine Learning.
 - :globe_with_meridians: I have level C1-C2 in English.
 - :accessibility: I am really into AI, Learning languages, Sports and Sports Biochemistry.
