@@ -4,7 +4,6 @@
 </p>
 
 <a href="https://t.me/paver_gulyaevich" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="Telegram" height="40" width="40" /></a>&nbsp;
-<a href="https://www.kaggle.com/pavergulyaevich" target="blank"><img align="left" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="40" width="40" /></a>&nbsp;
 <a href="https://www.vk.com/pavergulyaevich"><img align="left" alt="VK" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" /></a>
 <img align='right' src="https://media3.giphy.com/media/ubTm0qEprEvOo/giphy.webp?cid=ecf05e47i2jq1xccvdpgvts4f64uhie8ea0yqh1a5unor8ik&ep=v1_gifs_search&rid=giphy.webp&ct=g" height="300"/>
 
