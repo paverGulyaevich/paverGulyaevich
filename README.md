@@ -8,12 +8,12 @@
 <img align='right' src="https://media3.giphy.com/media/ubTm0qEprEvOo/giphy.webp?cid=ecf05e47i2jq1xccvdpgvts4f64uhie8ea0yqh1a5unor8ik&ep=v1_gifs_search&rid=giphy.webp&ct=g" height="300"/>
 
 ### A few things about me:
-- :mortar_board: Graduated from Bauman Moscow State Technichal University.
-- :briefcase: Currently I'm working as a CV engineer.
+- :mortar_board: Bauman Moscow State Technichal University graduate.
+- :briefcase: Data Scientist.
 - :globe_with_meridians: I have level C1-C2 in English.
 - :accessibility: I'm into AI, Learning languages, Sports and Sports Biochemistry.
 - :book: I regularly read technical articles on AI and cutting-edge technologies in that field.
-- :atom: My goal is to become an expert in ML/DL to contribute to our future.
+- :atom: My goal is to become an expert in ML/DL to contribute to the field of AI.
 
 ### Languages:
 
